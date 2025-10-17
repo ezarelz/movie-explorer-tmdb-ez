@@ -1,4 +1,3 @@
-// app/page.tsx
 import Navbar from '@/components/navbar';
 import HomeClient, { type MovieSummary } from '@/components/HomeClient';
 import { tmdb as api } from '@/lib/axios';
