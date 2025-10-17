@@ -46,7 +46,7 @@ Create a `.env.local` file in the root:
 
 ```env
 NEXT_APP_BASEURL=https://api.themoviedb.org/3
-NEXT_APP_BASEIMGURL=https://image.tmdb.org/t/p
+NEXT_APP_BASEIMGURL=https://image.tmdb.org/t/p/w500
 NEXT_APP_APIKEY=your_api_key_here
 NEXT_APP_TOKEN=your_token_here
 ```
